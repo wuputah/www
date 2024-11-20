@@ -47,4 +47,4 @@ happy to be contacted, but you're not doing me--or yourself--any favors
 if you can't tell me what the job is about.
 
 [2]: http://ryanbigg.com/2010/05/recruiters-know-thine-recruitees/
-[3]: http://linkedin.com/in/wuputah
+[3]: http://linkedin.com/in/jonathandance/

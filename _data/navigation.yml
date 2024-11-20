@@ -1,3 +1,5 @@
 main:
   - title: "Home"
     url: /
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/jonathandance/
