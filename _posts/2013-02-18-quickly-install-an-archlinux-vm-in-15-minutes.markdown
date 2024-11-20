@@ -5,7 +5,7 @@ layout: single
 ---
 
 Today we'll be looking at getting ArchLinux up and running in
-VirtualBox as rapidly as possible.~
+VirtualBox as rapidly as possible.
 
 **Prerequisites:**
 
