@@ -2,11 +2,8 @@
 title: Boycotting Facebook
 date: 2016-12-18
 layout: single
+description: We must accept social media is media. And it's gone off the rails.
 ---
-
-We must accept social media is media. And it's gone off the rails.
-
-~
 
 I am a big fan of voting with my wallet. Unfortunately, we don't pay
 directly for Facebook. We pay for Facebook by using it&mdash;its advertisers
