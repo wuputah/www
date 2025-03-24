@@ -10,7 +10,7 @@ my own Ruby on Rails consulting company, and [Agora Games](https://en.wikipedia.
 Computer Science at [RPI](https://www.rpi.edu/).
 
 While my most important language is [English](https://en.wikipedia.org/wiki/Engineering_management), I've programmed in
-Ruby, SQL, Rust, C, C++, PHP, Perl, Lua, and, of course, JavaScript.
+Ruby, SQL, Rust, C, C++, PHP, Python, Perl, Lua, and, of course, JavaScript.
 
 <!--
 Welcome to the desert of the real.
