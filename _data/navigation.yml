@@ -1,5 +1,7 @@
 main:
-  - title: "Home"
+  - title: Home
     url: /
-  - title: "LinkedIn"
+  - title: LinkedIn
     url: https://www.linkedin.com/in/jonathandance/
+  - title: Github
+    url: https://github.com/wuputah
